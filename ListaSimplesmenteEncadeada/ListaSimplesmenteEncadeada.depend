@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1684078585 source:d:\ed\codeblocks\matriz\listasimplesmenteencadeada\src\no.cpp
+	"No.h"
+	<iostream>
+
+1684078585 d:\ed\codeblocks\matriz\listasimplesmenteencadeada\include\no.h
+	<iostream>
+
+1684078226 source:d:\ed\codeblocks\matriz\listasimplesmenteencadeada\main.cpp
+	<iostream>
+	"No.h"
+	"SimplesEncad.h"
+
+1684078592 d:\ed\codeblocks\matriz\listasimplesmenteencadeada\include\simplesencad.h
+	"No.h"
+	<iostream>
+
+1684079470 source:d:\ed\codeblocks\matriz\listasimplesmenteencadeada\src\simplesencad.cpp
+	"SimplesEncad.h"
+	"No.h"
+	<iostream>
+
+1684079994 source:d:\ed\codeblocks\listasimplesmenteencadeada\main.cpp
+	<iostream>
+	"No.h"
+	"SimplesEncad.h"
+
+1684078585 d:\ed\codeblocks\listasimplesmenteencadeada\include\no.h
+	<iostream>
+
+1684610075 d:\ed\codeblocks\listasimplesmenteencadeada\include\simplesencad.h
+	"No.h"
+	<iostream>
+
+1684078585 source:d:\ed\codeblocks\listasimplesmenteencadeada\src\no.cpp
+	"No.h"
+	<iostream>
+
+1684610065 source:d:\ed\codeblocks\listasimplesmenteencadeada\src\simplesencad.cpp
+	"SimplesEncad.h"
+	"No.h"
+	<iostream>
+
+1684078585 source:d:\curso\ed\codeblocks\listasimplesmenteencadeada\src\no.cpp
+	"No.h"
+	<iostream>
+
+1684078585 d:\curso\ed\codeblocks\listasimplesmenteencadeada\include\no.h
+	<iostream>
+
+1685370922 source:d:\curso\ed\codeblocks\listasimplesmenteencadeada\main.cpp
+	<iostream>
+	"No.h"
+	"SimplesEncad.h"
+
+1685309793 d:\curso\ed\codeblocks\listasimplesmenteencadeada\include\simplesencad.h
+	"No.h"
+	<iostream>
+
+1685370873 source:d:\curso\ed\codeblocks\listasimplesmenteencadeada\src\simplesencad.cpp
+	"SimplesEncad.h"
+	"No.h"
+	<iostream>
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1684166987 source:d:\ed\codeblocks\listacdescritor\main.cpp
+	<iostream>
+	"No.h"
+	"ListaDescritor.h"
+
+1684160959 d:\ed\codeblocks\listacdescritor\include\no.h
+	<iostream>
+
+1684162113 d:\ed\codeblocks\listacdescritor\include\listadescritor.h
+
+1684328214 source:d:\ed\codeblocks\listacdescritor\src\listadescritor.cpp
+	<iostream>
+	"No.h"
+	"ListaDescritor.h"
+
+1684160962 source:d:\ed\codeblocks\listacdescritor\src\no.cpp
+	<iostream>
+	"No.h"
+
+1684160962 source:d:\curso\ed\codeblocks\listacdescritor\src\no.cpp
+	<iostream>
+	"No.h"
+
+1684160959 d:\curso\ed\codeblocks\listacdescritor\include\no.h
+	<iostream>
+
+1685801721 source:d:\curso\ed\codeblocks\listacdescritor\main.cpp
+	<iostream>
+	"No.h"
+	"ListaDescritor.h"
+
+1685465897 d:\curso\ed\codeblocks\listacdescritor\include\listadescritor.h
+
+1685535510 source:d:\curso\ed\codeblocks\listacdescritor\src\listadescritor.cpp
+	<iostream>
+	"No.h"
+	"ListaDescritor.h"
+

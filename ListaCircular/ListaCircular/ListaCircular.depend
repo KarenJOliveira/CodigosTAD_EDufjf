@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1685813271 source:d:\curso\ed\codeblocks\listacircular\listacircular\main.cpp
+	"NoDuplo.h"
+	"ListaCirc.h"
+	<iostream>
+
+1684346077 d:\curso\ed\codeblocks\listacircular\listacircular\include\noduplo.h
+	<iostream>
+
+1685813967 d:\curso\ed\codeblocks\listacircular\listacircular\include\listacirc.h
+	"NoDuplo.h"
+	<iostream>
+
+1684326008 source:d:\curso\ed\codeblocks\listacircular\listacircular\src\noduplo.cpp
+	"NoDuplo.h"
+	<iostream>
+
+1685813967 source:d:\curso\ed\codeblocks\listacircular\listacircular\src\listacirc.cpp
+	"NoDuplo.h"
+	"ListaCirc.h"
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685554590 source:d:\curso\ed\codeblocks\listacontigua\listacontigua\main.cpp
+	<iostream>
+	"ListaCont.h"
+
+1685303218 d:\curso\ed\codeblocks\listacontigua\listacontigua\include\listacont.h
+	<iostream>
+
+1685799378 source:d:\curso\ed\codeblocks\listacontigua\listacontigua\src\listacont.cpp
+	"ListaCont.h"
+	<iostream>
+

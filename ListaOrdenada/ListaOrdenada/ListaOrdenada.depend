@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685123132 source:d:\curso\ed\codeblocks\listaordenada\listaordenada\main.cpp
+	<iostream>
+	"ListaContOrd.h"
+
+1685123157 d:\curso\ed\codeblocks\listaordenada\listaordenada\include\listacontord.h
+	<iostream>
+
